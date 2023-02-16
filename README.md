@@ -14,3 +14,4 @@ At ALX School, there are several tracks to become a full stack software engineer
 * Ubuntu 20.04 LTS
 * gcc 10.2 (-Wall, -Werror, -Wextra,-pedantic -std=gnu89)
 # Projects
+1. [0X00-hello_world](https://github.com/Jeffodankwah/alx-low_level_programming/tree/master/0x00-hello_world)
