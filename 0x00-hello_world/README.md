@@ -1,7 +1,7 @@
 # 0x00. C - Hello, World
 Introduction to programming and first set of assignments at ALX School
 **What you should learn from this project** <br/>
-[At the end of this project you are expected to be able to explain to ayone, without the help of Google:](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg)
+> At the end of this project you are expected to be able to explain to ayone, without the help of Google:
 * Why C programming is awesome
 * Who invented C
 * Who are Dennis Ritchie, Brian Kernighan and Linus Torvalds
